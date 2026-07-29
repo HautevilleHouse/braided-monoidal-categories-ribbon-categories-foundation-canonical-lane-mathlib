@@ -1,0 +1,14 @@
+import HautevilleHouse.BraidedMonoidalCategoriesRibbonCategoriesFoundationCanonicalLaneLean.AdmissibleClass
+import HautevilleHouse.BraidedMonoidalCategoriesRibbonCategoriesFoundationCanonicalLaneLean.BridgeLemmas
+import HautevilleHouse.BraidedMonoidalCategoriesRibbonCategoriesFoundationCanonicalLaneLean.GateLemmas
+import HautevilleHouse.BraidedMonoidalCategoriesRibbonCategoriesFoundationCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace BraidedMonoidalCategoriesRibbonCategoriesFoundationCanonicalLaneLean
+
+/-- This module aggregates all imports for the core Canonical Lane Mathlib layer. -/
+theorem core_imports_available : True := by
+  trivial
+
+end BraidedMonoidalCategoriesRibbonCategoriesFoundationCanonicalLaneLean
+end HautevilleHouse
